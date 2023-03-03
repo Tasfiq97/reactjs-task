@@ -1,0 +1,26 @@
+
+.carousel-slider{
+    position: relative;
+   
+}
+.swiper-button-prev{
+     color: #FFC000;
+     font-size: 10px;
+     /* left: 30px; */
+     border:2px solid white;
+     padding:30px 30px;
+     border-radius: 50px;
+     background: white;
+    }
+    .swiper-button-next{
+        color: #FFC000;
+        border:2px solid white;
+        padding:30px 30px;
+        border-radius: 50px;
+        background: white;
+       }
+      
+       .swiper-pagination-bullet-active {
+        background-color: #FFC000;
+        
+   }
